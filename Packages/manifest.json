@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "be.eloistree.rootsofknowledgedronecar": "https://github.com/DroneXR/2023_02_19_RootsOfKnowedgeDrone.git",
     "com.meta.xr.sdk.all": "65.0.0",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
