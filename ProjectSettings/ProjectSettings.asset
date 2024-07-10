@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Brieux Lab
-  productName: HelloVRJune2024
+  productName: DroneXrPia
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -139,7 +139,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.0.0
+  bundleVersion: 1.0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 065db257af6324c49b1d1c83fbcc5cca, type: 2}
   metroInputSource: 0
@@ -162,7 +162,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: be.brieuxlab.dronev1
+    Android: be.brieuxlab.DronePia
     Standalone: com.unity.template.mr
   buildNumber:
     Standalone: 0
@@ -253,7 +253,7 @@ PlayerSettings:
   clonedFromGUID: 14e3da668dfd3496fb0ecd9272fcff02
   templatePackageId: com.unity.template.mixed-reality@1.0.1
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0

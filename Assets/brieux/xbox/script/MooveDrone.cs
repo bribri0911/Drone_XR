@@ -12,6 +12,7 @@ public class MooveDrone : MonoBehaviour
 
     public Vector2 movementPlayer, movementTopPlayer;
 
+
     void Update()
     {
         movement.action.Enable();
