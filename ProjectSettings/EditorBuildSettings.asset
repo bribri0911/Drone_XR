@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/00__Project/Mathis.unity
     guid: 664209f22304ac8459f1fed6e78b1447
   - enabled: 0
-    path: Assets/00__Project/Antoine.unity
+    path: Assets/00__Project/antoine.unity
     guid: 38731cc34e05a4e4fbb67bc0fd73d22f
   - enabled: 0
     path: Assets/00__Project/Pia.unity
