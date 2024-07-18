@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "be.eloistree.rootsofknowledgedronecar": {
-      "version": "https://github.com/DroneXR/2023_02_19_RootsOfKnowedgeDrone.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "fc3841bfa400e503b62f943af2afb860195fe86f"
-    },
     "com.meta.xr.mrutilitykit": {
       "version": "65.0.0",
       "depth": 1,
